@@ -35,7 +35,7 @@ This repository contains the source code for the CSA HU club website — a full-
 ## 🌿 Branch Strategy
 
 ```
-main          ← Production (Vercel live site) — only Prashant & Khushi merge here
+main          ← Production (Vercel live site) — only Prashant & Omansh merge here
 dev           ← Integration branch — all domain branches merge here first
 frontend      ← Ujjwal Singhal, Vansh Bansal
 backend       ← Omansh Chauhan, Vansh Pratap
@@ -47,7 +47,7 @@ cybersecurity ← Prashant Kumar, Varun Kansal
 **Workflow:**
 1. Each member works on their **domain branch**
 2. Open a **Pull Request** → `domain branch` → `dev`
-3. Prashant / Arpit review & merge into `dev`
+3. Prashant / Omansh review & merge into `dev`
 4. After testing, `dev` → `main` (triggers Vercel deploy)
 
 ---
