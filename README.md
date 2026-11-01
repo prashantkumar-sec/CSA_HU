@@ -1,6 +1,6 @@
 # CSA HU — Cloud Security Alliance, Haridwar University
 
-> Official web portal for the Computer Science Association at Haridwar University.
+> Official web portal for the Cloud Security Alliance at Haridwar University.
 
 ---
 
